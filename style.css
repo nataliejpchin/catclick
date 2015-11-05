@@ -1,9 +1,15 @@
-﻿#cat-img {
+﻿#cat-img-1,
+#cat-img-2{
   width: 10%;
   display: inline-block;
 }
 
-#number {
+#number-1,
+#number-2 {
   display: inline-block;
   font-size: 10em;
+}
+
+.container {
+  display:block;
 }
