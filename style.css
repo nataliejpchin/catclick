@@ -1,11 +1,18 @@
 ﻿#cat-img-1,
-#cat-img-2{
+#cat-img-2,
+#cat-img-3,
+#cat-img-4,
+#cat-img-5 {
   width: 10%;
   display: inline-block;
 }
 
 #number-1,
-#number-2 {
+#number-2,
+#number-3,
+#number-4,
+#number-5 {
+ {
   display: inline-block;
   font-size: 10em;
 }
